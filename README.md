@@ -1,1 +1,2 @@
-# kokoa-V2
+# kokoa-clone-v2
+ kakao clone version2
